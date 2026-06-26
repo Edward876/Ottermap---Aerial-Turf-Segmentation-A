@@ -3,6 +3,15 @@
 A computer vision pipeline that detects and segments turf / grass areas from aerial imagery, producing visual overlays and GIS-compatible GeoJSON outputs. Built as part of the Ottermap 72-hour ML Engineer Intern challenge.
 
 ---
+## Try it instantly
+ 
+Don't want to clone the repo or download model weights? Just use the live demo:
+ 
+**[https://huggingface.co/spaces/Shinichi876/ottermap-turf-segmentation](https://huggingface.co/spaces/Shinichi876/ottermap-turf-segmentation)**
+ 
+Upload any aerial image and all 4 trained models will run on it. Shows overlays, masks, and GeoJSON output directly in the browser.
+ 
+---
 
 ## Quick start
 
